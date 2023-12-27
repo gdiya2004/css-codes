@@ -1,0 +1,36 @@
+#a{
+    border-radius:50%;
+    height:100px;
+    width:100px;
+     background-color:red;
+     margin:25px;
+     border-style:solid;
+     border-width:bold;
+     border-color:black;
+    }
+    #b{border-radius:50%;
+        height:100px;
+        width:100px;
+        background-color:yellow;
+        margin:25px;
+        border-style:solid;
+        border-width:bold;
+        border-color:black;
+    }
+    #c{border-radius:50%;
+        height:100px;
+        width:100px;
+        background-color:green;
+        margin:25px;
+        border-style:solid;
+        border-width:bold;
+        border-color:black;
+    }
+    body{
+        width:150px;
+        height:425px;
+        border-style:solid;
+        border-width:bold;
+        border-color:black;
+    
+    }
